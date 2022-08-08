@@ -1,5 +1,5 @@
-# Hey, there! Vinicius here! Welcome to my profile 😄
-🗣️ You can call me Vin, or Vini xD
+# Hey, there! Vinicius here! Welcome to my profile   😄
+🗣️ You can call me Vini if you want xD 
 
 ## About me
 
