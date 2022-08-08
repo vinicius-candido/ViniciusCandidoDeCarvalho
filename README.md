@@ -3,9 +3,9 @@ You can call me Vini 😄
 
 ## About me
 
-💬 Ask me about Software Quality and Agile stacks!
+💬 Ask me about **Software Quality** and **Agile** stacks!
 
-💻 I’m currently working at NT Consult as an QA Automation Engineer for TruMed company.
+💻 I’m currently working at NT Consult as an **QA Automation Engineer** for TruMed company.
 
 🔭 I'm also IT consultant for Software Quality.
 
@@ -15,7 +15,9 @@ You can call me Vini 😄
 
 🌱 I’m currently studying Cypress and Selenium.
 
-⬆️ I'm pushing some of my projects here at https://github.com/vinicius-candido
+:student: I'm graduated in Information Systems by Universidade Federal de Goiás, in Brazil.
+
+⬆️ I'm pushing some of my projects here at [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius-candido?tab=repositories)
 
 💡 Curiosity: I've worked with Software Quality for my entire career and I'm familiar with SmartBear's products as TestComplete, Cucumber...
 
