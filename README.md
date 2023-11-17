@@ -5,15 +5,13 @@ You can call me Vini 😄
 
 💬 Ask me about **Software Quality** and **Agile** stacks!
 
-💻 I’m currently working at NT Consult as an **QA Automation Engineer** for TruMed company.
+💻 I’m currently working at Moodys Analytics as a **QA Engineer**.
 
 🔭 I'm also IT consultant for Software Quality.
 
 📝 I wrote an article of contributing factors from scrum to software quality (it's on linkedin) 👇 
 
 📢 Reach me out on LinkedIn ;)  [![Linkedin Badge](https://img.shields.io/badge/-vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciuscandidocarvalho/)](https://www.linkedin.com/in/viniciuscandidocarvalho/) 
-
-🌱 I’m currently studying Cypress and Selenium.
 
 :student: I'm graduated in Information Systems by Universidade Federal de Goiás, in Brazil.
 
